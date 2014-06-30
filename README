@@ -1,0 +1,6 @@
+cfa10036-mmio-LEDs
+==================
+
+An example of how to use MMIO with the i.MX28 processor to drive LEDs.  
+In this case, we removed the peripherals from a CFA10037 development PCB, and wired up a 
+breadboard to the 116 lines available for GPIO.  The example was built using Codelite 5.4
